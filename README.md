@@ -11,3 +11,5 @@ The main goal is to see a URL Shortening service emerge that automatically warns
  
 The user could simply see a quick Notification saying, "Hey we've noticed your using an unsafe browser or device, are you sure you'd like to continue to the website with this insecure environment ?".
  
+
+P.S - The API Keys are burners, so feel free to use them "about 10,000 searches per month i Think".
