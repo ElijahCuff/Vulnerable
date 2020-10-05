@@ -30,7 +30,7 @@ function getVulns($query)
 {
 
 $priors = 'https://raw.githubusercontent.com/offensive-security/exploitdb/master/';
-$file = file('https://raw.githubusercontent.com/offensive-security/exploitdb/master/files_exploits.csv');
+$file = file($priors.'files_exploits.csv');
   $listHtml = "";
   $count = 0;
        foreach($file as $value) { 
