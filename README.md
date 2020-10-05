@@ -1,5 +1,7 @@
 # Vulnerable
-Automatic Device Vulnerability Scanner in PHP with the ExploitDB CSV on GitHub
+Automatic Device Vulnerability Scanner in PHP with the ExploitDB CSV on GitHub,
+
+https://github.com/offensive-security/exploitdb
    
   
 ## The Plan
